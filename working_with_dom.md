@@ -865,7 +865,3 @@ Here we have used robot.mouseMoveAt() and robot.mouseClick() methods from
 In order to test if it worked we have relied on testing the .style.display
 property.
 
-
-
-
-
